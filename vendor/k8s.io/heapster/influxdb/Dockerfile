@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:kinetic
 
 MAINTAINER Vishnu kannan "<vishnuk@google.com>"
 
