@@ -1,4 +1,4 @@
-FROM alpine:3.2
+FROM alpine:3.16
 MAINTAINER vishnuk@google.com
 
 ENV GLIBC_VERSION "2.23-r1"
