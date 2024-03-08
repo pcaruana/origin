@@ -1,4 +1,4 @@
-FROM golang:1.11
+FROM golang:1.22.0
 MAINTAINER vmarmol@google.com
 
 RUN apt-get update && apt-get install -y git dmsetup && apt-get clean
